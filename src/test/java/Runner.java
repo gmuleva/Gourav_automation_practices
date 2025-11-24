@@ -6,5 +6,5 @@ class Runner {
     Karate runTests() {
         return Karate.run("classpath:features");
     }
-}
 
+}
